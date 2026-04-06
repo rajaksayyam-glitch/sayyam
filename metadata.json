@@ -1,0 +1,5 @@
+{
+  "name": "Jarvis: Intelligent Personal Assistant",
+  "description": "Jarvis is an AI-powered assistant designed to understand natural language commands and execute a wide range of tasks efficiently. It integrates artificial intelligence, natural language processing, and machine learning to streamline operations and improve efficiency.",
+  "requestFramePermissions": ["microphone", "camera", "geolocation"]
+}
